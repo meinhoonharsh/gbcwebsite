@@ -1,5 +1,6 @@
 import React from 'react'
 import Header from '../components/Header'
+import LandingHero from '../components/LandingHero'
 
 export default function Home() {
     return (
@@ -7,6 +8,7 @@ export default function Home() {
         <>
 
             <Header />
+            <LandingHero />
             {/* Skills */}
             <section id="skills" className="section-1 counter skills">
                 <div className="container">
