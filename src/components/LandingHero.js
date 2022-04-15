@@ -25,9 +25,7 @@ export default function LandingHero() {
                                             data-aos-delay={400}
                                             className="title effect-static-text"
                                         >
-                                            # A Different
-                                            <br />
-                                            Digital Agency
+                                            Departmental Club <br /> of ECE
                                         </h1>
                                         <p
                                             data-aos="zoom-out-up"
