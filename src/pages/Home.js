@@ -1,9 +1,12 @@
 import React from 'react'
+import Header from '../components/Header'
 
 export default function Home() {
     return (
 
         <>
+
+            <Header />
             {/* Hero */}
             <section id="slider" className="hero odd p-0 featured">
                 <div className="swiper-container no-slider animation slider-h-100">
