@@ -3,6 +3,7 @@ import Aim from '../components/Aim'
 import Events from '../components/Events'
 import Header from '../components/Header'
 import LandingHero from '../components/LandingHero'
+import Newsletter from '../components/Newsletter'
 import Teams from '../components/Teams'
 
 export default function Home() {
@@ -77,7 +78,7 @@ export default function Home() {
             <Teams />
 
 
-
+            <Newsletter />
 
 
             {/* Contact */}
