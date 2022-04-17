@@ -32,7 +32,7 @@ export default function Teams() {
                                                 <div className="row card">
                                                     <div className="col-12">
                                                         <img
-                                                            src={member.image}
+                                                            src={require("../assets/team/" + member.image)}
                                                             alt="Adams Baker"
                                                             className="person"
                                                         />
