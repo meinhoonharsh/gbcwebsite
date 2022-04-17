@@ -17,9 +17,7 @@ export default function Home() {
                         <div className="col-12">
                             <h2 className="super effect-static-text">Main Skills</h2>
                             <p className="text-max-800">
-                                We see all types of projects as if they were ours. This brings us
-                                closer to our clients' projects bringing much more confidence and
-                                commitment.
+                                The Gigabiters is the official club of Electronics and Communication Department of UIT RGPV. Our main aim is to organize various technical workshops and events, which can be beneficial for the overall development of the students. They will be provided with an opportunity to implement what they learn in their respective classrooms. We, at Gigabiters, are fully dedicated to provide technical skills, in addition to connecting other students who have similar interests.
                             </p>
                         </div>
                     </div>
