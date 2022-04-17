@@ -1,5 +1,6 @@
 import React from 'react'
 import Aim from '../components/Aim'
+import Events from '../components/Events'
 import Header from '../components/Header'
 import LandingHero from '../components/LandingHero'
 import Teams from '../components/Teams'
@@ -12,6 +13,9 @@ export default function Home() {
             <Header />
             <LandingHero />
             <Aim />
+
+
+            <Events />
             {/* Get */}
             <section id="get" className="section-3 hero odd p-0">
                 <div className="swiper-container no-slider animation slider-h-75">
