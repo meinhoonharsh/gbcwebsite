@@ -1,4 +1,5 @@
 import React from 'react'
+import Aim from '../components/Aim'
 import Header from '../components/Header'
 import LandingHero from '../components/LandingHero'
 import Teams from '../components/Teams'
@@ -10,6 +11,7 @@ export default function Home() {
 
             <Header />
             <LandingHero />
+            <Aim />
             {/* Services */}
             <section id="services" className="section-2 odd offers featured custom">
                 <div className="container">
