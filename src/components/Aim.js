@@ -8,13 +8,13 @@ export default function Aim() {
                 <div className="container">
                     <div className="row text-center intro">
                         <div className="col-12">
-                            <h2 className="super effect-static-text">Main Skills</h2>
-                            <p className="text-max-800">
+                            <h2 className="super effect-static-text">Aim of the Club</h2>
+                            <p className="text-max-800 h5">
                                 The Gigabiters is the official club of Electronics and Communication Department of UIT RGPV. Our main aim is to organize various technical workshops and events, which can be beneficial for the overall development of the students. They will be provided with an opportunity to implement what they learn in their respective classrooms. We, at Gigabiters, are fully dedicated to provide technical skills, in addition to connecting other students who have similar interests.
                             </p>
                         </div>
                     </div>
-                    <div
+                    {/* <div
                         data-aos-id="counter"
                         data-aos="fade-up"
                         data-aos-delay={200}
@@ -44,7 +44,7 @@ export default function Aim() {
                             </div>
                             <h4>WordPress</h4>
                         </div>
-                    </div>
+                    </div> */}
                 </div>
             </section>
 
