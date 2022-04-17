@@ -11,7 +11,7 @@ export default function Teams() {
                     <div className="container">
                         <div className="row text-center intro">
                             <div className="col-12">
-                                <h2 className="super effect-static-text">Team of Experts</h2>
+                                <h2 className="super effect-static-text">Our Team</h2>
                                 <p className="text-max-800">
                                     Our team will help you define a stand-out creative direction and
                                     will translate it into visual assets that will resonate with your
