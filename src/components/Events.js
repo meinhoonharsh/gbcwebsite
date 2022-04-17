@@ -9,7 +9,7 @@ export default function Events() {
                 <div className="container">
                     <div className="row intro">
                         <div className="col-12 col-md-9 align-self-center text-center text-md-left">
-                            <h2 className="super effect-static-text">Our Services</h2>
+                            <h2 className="super effect-static-text">Previous Events</h2>
                             <p>Focused on results we seek to raise the level of our customers.</p>
                         </div>
                         <div className="col-12 col-md-3 align-self-end">
@@ -34,7 +34,7 @@ export default function Events() {
                             </div>
                         </div>
                         <div className="col-12 col-md-6 col-lg-4 item">
-                            <div className="card">
+                            <div className="card featured">
                                 <i className="icon icon-basket" />
                                 <h4>E-Commerce</h4>
                                 <p>
@@ -46,45 +46,7 @@ export default function Events() {
                                 </a>
                             </div>
                         </div>
-                        <div className="col-12 col-md-6 col-lg-4 item">
-                            <div className="card">
-                                <i className="icon icon-screen-smartphone" />
-                                <h4>Mobile Apps</h4>
-                                <p>
-                                    Follow the global trend and create your revolutionary mobile app
-                                    built with the best technologies.
-                                </p>
-                                <a href="page-single-service-1.html">
-                                    <i className="btn-icon icon-arrow-right-circle" />
-                                </a>
-                            </div>
-                        </div>
-                        <div className="col-12 col-md-6 col-lg-4 item">
-                            <div className="card">
-                                <i className="icon icon-layers" />
-                                <h4>Web Application</h4>
-                                <p>
-                                    We build applications for different purposes using technologies
-                                    that allow you more security.
-                                </p>
-                                <a href="page-single-service-1.html">
-                                    <i className="btn-icon icon-arrow-right-circle" />
-                                </a>
-                            </div>
-                        </div>
-                        <div className="col-12 col-md-6 col-lg-4 item">
-                            <div className="card">
-                                <i className="icon icon-chart" />
-                                <h4>Digital Marketing</h4>
-                                <p>
-                                    We work to promote your brand in partnership with the best
-                                    marketing platforms today.
-                                </p>
-                                <a href="page-single-service-1.html">
-                                    <i className="btn-icon icon-arrow-right-circle" />
-                                </a>
-                            </div>
-                        </div>
+
                         <div className="col-12 col-md-6 col-lg-4 item">
                             <div className="card featured">
                                 <i className="icon icon-bulb" />
