@@ -1,5 +1,6 @@
 import React from 'react'
 import Aim from '../components/Aim'
+import Contact from '../components/Contact'
 import Events from '../components/Events'
 import Header from '../components/Header'
 import LandingHero from '../components/LandingHero'
@@ -80,7 +81,7 @@ export default function Home() {
 
             <Newsletter />
 
-
+            <Contact />
             {/* Footer */}
             <footer className="odd">
                 {/* Footer [links] */}
