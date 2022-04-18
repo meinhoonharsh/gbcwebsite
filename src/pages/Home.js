@@ -2,6 +2,7 @@ import React from 'react'
 import Aim from '../components/Aim'
 import Contact from '../components/Contact'
 import Events from '../components/Events'
+import Footer from '../components/Footer'
 import Header from '../components/Header'
 import LandingHero from '../components/LandingHero'
 import Newsletter from '../components/Newsletter'
@@ -83,7 +84,7 @@ export default function Home() {
 
             <Contact />
 
-
+            <Footer />
             {/* #region Global ============================ */}
             {/* Modal [search] */}
             <div
